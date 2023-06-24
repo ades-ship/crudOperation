@@ -5,7 +5,7 @@ React application that shows the operation related to books like add ,update , d
 A book management system developed using React and SQL involves building a web application that allows users to manage books, including adding, editing, and deleting book entries. React is a popular JavaScript library for building user interfaces, while SQL (Structured Query Language) is a language used for managing relational databases.
 
 ## setting it up
-1.Setup and Dependencies:
+   ### 1.Setup and Dependencies:
 Set up a development environment with Node.js and a code editor.
 Create a new React project using tools like Create React App.
 Install necessary dependencies such as React Router for routing, Axios for handling HTTP requests, and any other libraries you might need.
